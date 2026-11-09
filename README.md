@@ -1,6 +1,6 @@
-# NDFirewall [Development has been discontinued]
+# Public Development has been discontinued !!!
 
-A lightweight, route-scoped Web Application Firewall for Laravel. No admin
+NDFirewall, A lightweight, route-scoped Web Application Firewall for Laravel. No admin
 panel — it's a service you call from code. Detects RCE, SQL injection, XSS,
 LFI/RFI/path traversal, SSRF and PHP object injection payloads via regex,
 without ever executing anything it matches.
